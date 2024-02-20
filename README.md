@@ -1,1 +1,1 @@
-# PrometheanAI-Unity-plugin
+# PrometheanAI Unity plugin
